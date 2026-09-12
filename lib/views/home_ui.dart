@@ -57,7 +57,7 @@ class HomeUI extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => LoginUI(),
+                    builder: (context) => LoginUi(),
                   ),
                 );
               },
